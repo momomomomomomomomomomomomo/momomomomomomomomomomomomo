@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mustafa 👋
 
-<!--
-**momomomomomomomomomomomomo/momomomomomomomomomomomomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building from transistors to distributed systems | SWE & Cybersecurity | Learning in Public**
 
-Here are some ideas to get you started:
+I am a software engineering student graduating in 2026, currently working as the Technical Lead for a 14-person team. I'm passionate about understanding how computers work from the ground up, whether that's building complex web architectures or diving deep into systems and algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On:
+* **GridPlant**: Leading technical development and architecture for a major team project.
+* **Provenance Tracker**: A supply chain system built with C# and .NET.
+* **The Wild Oasis**: A full-stack luxury cabin hotel website (React, Next.js).
+
+### 🌱 Currently Learning & Studying:
+* Deep diving into **Structure and Interpretation of Computer Programs (SICP)**.
+* Mastering Data Structures & Algorithms (daily LeetCode practice).
+* Building a foundation in Systems Programming and Cybersecurity.
+
+### 🛠️ Tech Stack:
+* **Languages:** C#, JavaScript, Python
+* **Frameworks & Tools:** .NET, React, Next.js
+* **Concepts:** System Architecture, Supply Chain Logic, Team Leadership
+
+### 📫 Let's Connect:
+* [LinkedIn](YOUR_LINKEDIN_URL)
+* [Blog](YOUR_BLOG_URL)
+* [Twitter/X](YOUR_TWITTER_URL)
